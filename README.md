@@ -1,0 +1,1 @@
+EDA on stocks, examined SVM and VAR. Lastly, implemented a trading strategy using SVR for prediction, on a selected bucket of stocks comparing the performance against the typical "buy-and-hold" strategy.
