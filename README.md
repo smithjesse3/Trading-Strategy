@@ -1,1 +1,1 @@
-EDA on stocks, examined SVM and VAR. Lastly, implemented a trading strategy using SVR for prediction, on a selected bucket of stocks comparing the performance against the typical "buy-and-hold" strategy.
+EDA on stocks, examined SVM and VAR. Implemented a trading strategy using SVR for predicting stock prices and trading every 7days as buy, hold, or sell, on a selected bucket of stocks comparing the performance against the typical "buy-and-hold" strategy. As seen in the notebook trading strategy outperformed buy and hold in this timeframe.
